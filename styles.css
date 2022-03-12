@@ -6,10 +6,43 @@ h1 {
     color: olivedrab;
 }
 
+h2 {
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Courier New';
+    font-size: 35px;
+}
+
+h3 {
+    text-align: center;
+    font-weight:bold;
+    font-family: 'Courier New';
+    font-size: 30px;
+}
+.desc {
+    text-align: center;
+    font-family: 'Courier New';
+    font-size: 25px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
 ul{
     text-align: center;
     font-family: 'Courier New';
-    font-size: 30px;
+    font-size: 25px;
     color: maroon;
 
+}
+
+ol {
+    text-align: justify;
+    font-family: 'Courier New';
+    font-size: 25px;
+    color: maroon;
 }
